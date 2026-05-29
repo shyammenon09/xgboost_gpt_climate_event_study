@@ -1,0 +1,11 @@
+{
+    "booster": "dart",
+    "lambda": 1.9574252783793507,
+    "alpha": 3.6751491626638565e-08,
+    "subsample": 0.7824096632407949,
+    "colsample_bytree": 0.9719582229667248,
+    "learning_rate": 0.26527327451591987,
+    "max_depth": 2,
+    "n_estimators": 273,
+    "early_stopping_rounds": 8
+}
