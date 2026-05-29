@@ -1,0 +1,1382 @@
+[
+    {
+        "week_start_date": "2018-07-02",
+        "ewma_volatility": 0.012435197167923724
+    },
+    {
+        "week_start_date": "2018-07-09",
+        "ewma_volatility": 0.01545672297291525
+    },
+    {
+        "week_start_date": "2018-07-16",
+        "ewma_volatility": 0.01475432303127313
+    },
+    {
+        "week_start_date": "2018-07-23",
+        "ewma_volatility": 0.015843013315328586
+    },
+    {
+        "week_start_date": "2018-07-30",
+        "ewma_volatility": 0.015053083120217154
+    },
+    {
+        "week_start_date": "2018-08-06",
+        "ewma_volatility": 0.017337769196689317
+    },
+    {
+        "week_start_date": "2018-08-13",
+        "ewma_volatility": 0.016626499673389056
+    },
+    {
+        "week_start_date": "2018-08-20",
+        "ewma_volatility": 0.01585728490377239
+    },
+    {
+        "week_start_date": "2018-08-27",
+        "ewma_volatility": 0.0175913907457855
+    },
+    {
+        "week_start_date": "2018-09-03",
+        "ewma_volatility": 0.02632281176467882
+    },
+    {
+        "week_start_date": "2018-09-10",
+        "ewma_volatility": 0.030147507648542425
+    },
+    {
+        "week_start_date": "2018-09-17",
+        "ewma_volatility": 0.030397482992731272
+    },
+    {
+        "week_start_date": "2018-09-24",
+        "ewma_volatility": 0.029066282469708278
+    },
+    {
+        "week_start_date": "2018-10-01",
+        "ewma_volatility": 0.02773116207215937
+    },
+    {
+        "week_start_date": "2018-10-08",
+        "ewma_volatility": 0.026673882010313035
+    },
+    {
+        "week_start_date": "2018-10-15",
+        "ewma_volatility": 0.025674855458508266
+    },
+    {
+        "week_start_date": "2018-10-22",
+        "ewma_volatility": 0.02521882967608632
+    },
+    {
+        "week_start_date": "2018-10-29",
+        "ewma_volatility": 0.024461117844330544
+    },
+    {
+        "week_start_date": "2018-11-05",
+        "ewma_volatility": 0.023901313945573658
+    },
+    {
+        "week_start_date": "2018-11-12",
+        "ewma_volatility": 0.024971346649231823
+    },
+    {
+        "week_start_date": "2018-11-19",
+        "ewma_volatility": 0.02446618510911239
+    },
+    {
+        "week_start_date": "2018-11-26",
+        "ewma_volatility": 0.023210661180027115
+    },
+    {
+        "week_start_date": "2018-12-03",
+        "ewma_volatility": 0.023489432329796795
+    },
+    {
+        "week_start_date": "2018-12-10",
+        "ewma_volatility": 0.022326964718077318
+    },
+    {
+        "week_start_date": "2018-12-17",
+        "ewma_volatility": 0.0212267792703517
+    },
+    {
+        "week_start_date": "2018-12-24",
+        "ewma_volatility": 0.02014956021534347
+    },
+    {
+        "week_start_date": "2018-12-31",
+        "ewma_volatility": 0.022242049515399452
+    },
+    {
+        "week_start_date": "2019-01-07",
+        "ewma_volatility": 0.0233383400508614
+    },
+    {
+        "week_start_date": "2019-01-14",
+        "ewma_volatility": 0.02215181790947203
+    },
+    {
+        "week_start_date": "2019-01-21",
+        "ewma_volatility": 0.03196385495270649
+    },
+    {
+        "week_start_date": "2019-01-28",
+        "ewma_volatility": 0.03036166366539698
+    },
+    {
+        "week_start_date": "2019-02-04",
+        "ewma_volatility": 0.03177933276421069
+    },
+    {
+        "week_start_date": "2019-02-11",
+        "ewma_volatility": 0.03018372140041738
+    },
+    {
+        "week_start_date": "2019-02-18",
+        "ewma_volatility": 0.028960614073170604
+    },
+    {
+        "week_start_date": "2019-02-25",
+        "ewma_volatility": 0.028237580477450685
+    },
+    {
+        "week_start_date": "2019-03-04",
+        "ewma_volatility": 0.02678852097631472
+    },
+    {
+        "week_start_date": "2019-03-11",
+        "ewma_volatility": 0.03183389463334926
+    },
+    {
+        "week_start_date": "2019-03-18",
+        "ewma_volatility": 0.030231838742253447
+    },
+    {
+        "week_start_date": "2019-03-25",
+        "ewma_volatility": 0.02871366534121004
+    },
+    {
+        "week_start_date": "2019-04-01",
+        "ewma_volatility": 0.02792370543874295
+    },
+    {
+        "week_start_date": "2019-04-08",
+        "ewma_volatility": 0.02652534848195553
+    },
+    {
+        "week_start_date": "2019-04-15",
+        "ewma_volatility": 0.025173283716467758
+    },
+    {
+        "week_start_date": "2019-04-22",
+        "ewma_volatility": 0.029391684633411547
+    },
+    {
+        "week_start_date": "2019-04-29",
+        "ewma_volatility": 0.028485599443949475
+    },
+    {
+        "week_start_date": "2019-05-06",
+        "ewma_volatility": 0.027303220902827864
+    },
+    {
+        "week_start_date": "2019-05-13",
+        "ewma_volatility": 0.026100313199961707
+    },
+    {
+        "week_start_date": "2019-05-20",
+        "ewma_volatility": 0.02476915446434613
+    },
+    {
+        "week_start_date": "2019-05-27",
+        "ewma_volatility": 0.025957441535460583
+    },
+    {
+        "week_start_date": "2019-06-03",
+        "ewma_volatility": 0.02476776225287874
+    },
+    {
+        "week_start_date": "2019-06-10",
+        "ewma_volatility": 0.023947849871500292
+    },
+    {
+        "week_start_date": "2019-06-17",
+        "ewma_volatility": 0.024308526900382446
+    },
+    {
+        "week_start_date": "2019-06-24",
+        "ewma_volatility": 0.023216944062127105
+    },
+    {
+        "week_start_date": "2019-07-01",
+        "ewma_volatility": 0.02239243738507784
+    },
+    {
+        "week_start_date": "2019-07-08",
+        "ewma_volatility": 0.021623518133256088
+    },
+    {
+        "week_start_date": "2019-07-15",
+        "ewma_volatility": 0.020513870498112475
+    },
+    {
+        "week_start_date": "2019-07-22",
+        "ewma_volatility": 0.020194912047574735
+    },
+    {
+        "week_start_date": "2019-07-29",
+        "ewma_volatility": 0.019454818073614412
+    },
+    {
+        "week_start_date": "2019-08-05",
+        "ewma_volatility": 0.01846874685072238
+    },
+    {
+        "week_start_date": "2019-08-12",
+        "ewma_volatility": 0.017729119924659625
+    },
+    {
+        "week_start_date": "2019-08-19",
+        "ewma_volatility": 0.016943401912697744
+    },
+    {
+        "week_start_date": "2019-08-26",
+        "ewma_volatility": 0.01620540306251217
+    },
+    {
+        "week_start_date": "2019-09-02",
+        "ewma_volatility": 0.01543515288880086
+    },
+    {
+        "week_start_date": "2019-09-09",
+        "ewma_volatility": 0.014707478211937573
+    },
+    {
+        "week_start_date": "2019-09-16",
+        "ewma_volatility": 0.014774862406431881
+    },
+    {
+        "week_start_date": "2019-09-23",
+        "ewma_volatility": 0.014173973343069943
+    },
+    {
+        "week_start_date": "2019-09-30",
+        "ewma_volatility": 0.01483910092509994
+    },
+    {
+        "week_start_date": "2019-10-07",
+        "ewma_volatility": 0.014490284975519433
+    },
+    {
+        "week_start_date": "2019-10-14",
+        "ewma_volatility": 0.014013254919980093
+    },
+    {
+        "week_start_date": "2019-10-21",
+        "ewma_volatility": 0.015636490808708693
+    },
+    {
+        "week_start_date": "2019-10-28",
+        "ewma_volatility": 0.015401704300772076
+    },
+    {
+        "week_start_date": "2019-11-04",
+        "ewma_volatility": 0.016719049087253152
+    },
+    {
+        "week_start_date": "2019-11-11",
+        "ewma_volatility": 0.016354298252535975
+    },
+    {
+        "week_start_date": "2019-11-18",
+        "ewma_volatility": 0.02666408117172144
+    },
+    {
+        "week_start_date": "2019-11-25",
+        "ewma_volatility": 0.026170347444081813
+    },
+    {
+        "week_start_date": "2019-12-02",
+        "ewma_volatility": 0.02658690858608066
+    },
+    {
+        "week_start_date": "2019-12-09",
+        "ewma_volatility": 0.02546344881046526
+    },
+    {
+        "week_start_date": "2019-12-16",
+        "ewma_volatility": 0.02472193099450611
+    },
+    {
+        "week_start_date": "2019-12-23",
+        "ewma_volatility": 0.023482946586580823
+    },
+    {
+        "week_start_date": "2019-12-30",
+        "ewma_volatility": 0.02227787921570155
+    },
+    {
+        "week_start_date": "2020-01-06",
+        "ewma_volatility": 0.0212655122212492
+    },
+    {
+        "week_start_date": "2020-01-13",
+        "ewma_volatility": 0.024788463952815646
+    },
+    {
+        "week_start_date": "2020-01-20",
+        "ewma_volatility": 0.03283531119601301
+    },
+    {
+        "week_start_date": "2020-01-27",
+        "ewma_volatility": 0.03805789734454521
+    },
+    {
+        "week_start_date": "2020-02-03",
+        "ewma_volatility": 0.04058978337078513
+    },
+    {
+        "week_start_date": "2020-02-10",
+        "ewma_volatility": 0.03931010015091794
+    },
+    {
+        "week_start_date": "2020-02-17",
+        "ewma_volatility": 0.0373435748508151
+    },
+    {
+        "week_start_date": "2020-02-24",
+        "ewma_volatility": 0.03545073062028242
+    },
+    {
+        "week_start_date": "2020-03-02",
+        "ewma_volatility": 0.03363766975397617
+    },
+    {
+        "week_start_date": "2020-03-09",
+        "ewma_volatility": 0.03191149548093613
+    },
+    {
+        "week_start_date": "2020-03-16",
+        "ewma_volatility": 0.03953009031478465
+    },
+    {
+        "week_start_date": "2020-03-23",
+        "ewma_volatility": 0.03750799026168468
+    },
+    {
+        "week_start_date": "2020-03-30",
+        "ewma_volatility": 0.035829955595906536
+    },
+    {
+        "week_start_date": "2020-04-06",
+        "ewma_volatility": 0.04259168479710956
+    },
+    {
+        "week_start_date": "2020-04-13",
+        "ewma_volatility": 0.04040602000284982
+    },
+    {
+        "week_start_date": "2020-04-20",
+        "ewma_volatility": 0.043096916797798215
+    },
+    {
+        "week_start_date": "2020-04-27",
+        "ewma_volatility": 0.04091780609951895
+    },
+    {
+        "week_start_date": "2020-05-04",
+        "ewma_volatility": 0.04226195634584628
+    },
+    {
+        "week_start_date": "2020-05-11",
+        "ewma_volatility": 0.04028237901512332
+    },
+    {
+        "week_start_date": "2020-05-18",
+        "ewma_volatility": 0.0393926682158492
+    },
+    {
+        "week_start_date": "2020-05-25",
+        "ewma_volatility": 0.037805271159922306
+    },
+    {
+        "week_start_date": "2020-06-01",
+        "ewma_volatility": 0.04141896967832136
+    },
+    {
+        "week_start_date": "2020-06-08",
+        "ewma_volatility": 0.051268872661802745
+    },
+    {
+        "week_start_date": "2020-06-15",
+        "ewma_volatility": 0.049329638517980764
+    },
+    {
+        "week_start_date": "2020-06-22",
+        "ewma_volatility": 0.04691922402547884
+    },
+    {
+        "week_start_date": "2020-06-29",
+        "ewma_volatility": 0.04459140808765719
+    },
+    {
+        "week_start_date": "2020-07-06",
+        "ewma_volatility": 0.043029560948162585
+    },
+    {
+        "week_start_date": "2020-07-13",
+        "ewma_volatility": 0.040826558255477624
+    },
+    {
+        "week_start_date": "2020-07-20",
+        "ewma_volatility": 0.038922995024437655
+    },
+    {
+        "week_start_date": "2020-07-27",
+        "ewma_volatility": 0.03737871956731034
+    },
+    {
+        "week_start_date": "2020-08-03",
+        "ewma_volatility": 0.03583446041570006
+    },
+    {
+        "week_start_date": "2020-08-10",
+        "ewma_volatility": 0.03483250246775957
+    },
+    {
+        "week_start_date": "2020-08-17",
+        "ewma_volatility": 0.03309784446147927
+    },
+    {
+        "week_start_date": "2020-08-24",
+        "ewma_volatility": 0.034109181544186996
+    },
+    {
+        "week_start_date": "2020-08-31",
+        "ewma_volatility": 0.03873918276714485
+    },
+    {
+        "week_start_date": "2020-09-07",
+        "ewma_volatility": 0.04029473064137306
+    },
+    {
+        "week_start_date": "2020-09-14",
+        "ewma_volatility": 0.0429174606818296
+    },
+    {
+        "week_start_date": "2020-09-21",
+        "ewma_volatility": 0.04130405333976332
+    },
+    {
+        "week_start_date": "2020-09-28",
+        "ewma_volatility": 0.03921672824959398
+    },
+    {
+        "week_start_date": "2020-10-05",
+        "ewma_volatility": 0.03726453884310818
+    },
+    {
+        "week_start_date": "2020-10-12",
+        "ewma_volatility": 0.036321753266145194
+    },
+    {
+        "week_start_date": "2020-10-19",
+        "ewma_volatility": 0.03446167070695485
+    },
+    {
+        "week_start_date": "2020-10-26",
+        "ewma_volatility": 0.033022848653934074
+    },
+    {
+        "week_start_date": "2020-11-02",
+        "ewma_volatility": 0.03239058343888192
+    },
+    {
+        "week_start_date": "2020-11-09",
+        "ewma_volatility": 0.030794982284818744
+    },
+    {
+        "week_start_date": "2020-11-16",
+        "ewma_volatility": 0.031723230721958075
+    },
+    {
+        "week_start_date": "2020-11-23",
+        "ewma_volatility": 0.03110400931183815
+    },
+    {
+        "week_start_date": "2020-11-30",
+        "ewma_volatility": 0.02950785413654851
+    },
+    {
+        "week_start_date": "2020-12-07",
+        "ewma_volatility": 0.033806598323460536
+    },
+    {
+        "week_start_date": "2020-12-14",
+        "ewma_volatility": 0.0354651101628709
+    },
+    {
+        "week_start_date": "2020-12-21",
+        "ewma_volatility": 0.03420287009041691
+    },
+    {
+        "week_start_date": "2020-12-28",
+        "ewma_volatility": 0.03939682877735547
+    },
+    {
+        "week_start_date": "2021-01-04",
+        "ewma_volatility": 0.03767843925347073
+    },
+    {
+        "week_start_date": "2021-01-11",
+        "ewma_volatility": 0.038616848568569326
+    },
+    {
+        "week_start_date": "2021-01-18",
+        "ewma_volatility": 0.03672453369868918
+    },
+    {
+        "week_start_date": "2021-01-25",
+        "ewma_volatility": 0.03704424374908513
+    },
+    {
+        "week_start_date": "2021-02-01",
+        "ewma_volatility": 0.04029103250449885
+    },
+    {
+        "week_start_date": "2021-02-08",
+        "ewma_volatility": 0.03876699172496971
+    },
+    {
+        "week_start_date": "2021-02-15",
+        "ewma_volatility": 0.042285980654385234
+    },
+    {
+        "week_start_date": "2021-02-22",
+        "ewma_volatility": 0.04045399146713131
+    },
+    {
+        "week_start_date": "2021-03-01",
+        "ewma_volatility": 0.04108408282237313
+    },
+    {
+        "week_start_date": "2021-03-08",
+        "ewma_volatility": 0.039003829109859146
+    },
+    {
+        "week_start_date": "2021-03-15",
+        "ewma_volatility": 0.03701531152403978
+    },
+    {
+        "week_start_date": "2021-03-22",
+        "ewma_volatility": 0.03596056482752615
+    },
+    {
+        "week_start_date": "2021-03-29",
+        "ewma_volatility": 0.036758555810688764
+    },
+    {
+        "week_start_date": "2021-04-05",
+        "ewma_volatility": 0.035393554739936064
+    },
+    {
+        "week_start_date": "2021-04-12",
+        "ewma_volatility": 0.034527459337359935
+    },
+    {
+        "week_start_date": "2021-04-19",
+        "ewma_volatility": 0.033200058843368976
+    },
+    {
+        "week_start_date": "2021-04-26",
+        "ewma_volatility": 0.03293053565310291
+    },
+    {
+        "week_start_date": "2021-05-03",
+        "ewma_volatility": 0.03843263640946467
+    },
+    {
+        "week_start_date": "2021-05-10",
+        "ewma_volatility": 0.036526566522473665
+    },
+    {
+        "week_start_date": "2021-05-17",
+        "ewma_volatility": 0.03493169865850906
+    },
+    {
+        "week_start_date": "2021-05-24",
+        "ewma_volatility": 0.03350289211341662
+    },
+    {
+        "week_start_date": "2021-05-31",
+        "ewma_volatility": 0.031897698630464495
+    },
+    {
+        "week_start_date": "2021-06-07",
+        "ewma_volatility": 0.03219428604861717
+    },
+    {
+        "week_start_date": "2021-06-14",
+        "ewma_volatility": 0.030590761153891446
+    },
+    {
+        "week_start_date": "2021-06-21",
+        "ewma_volatility": 0.02913429627332334
+    },
+    {
+        "week_start_date": "2021-06-28",
+        "ewma_volatility": 0.027758215280748788
+    },
+    {
+        "week_start_date": "2021-07-05",
+        "ewma_volatility": 0.026677321193085544
+    },
+    {
+        "week_start_date": "2021-07-12",
+        "ewma_volatility": 0.02678768277472225
+    },
+    {
+        "week_start_date": "2021-07-19",
+        "ewma_volatility": 0.025416367103063286
+    },
+    {
+        "week_start_date": "2021-07-26",
+        "ewma_volatility": 0.024875843024930518
+    },
+    {
+        "week_start_date": "2021-08-02",
+        "ewma_volatility": 0.02592023013367694
+    },
+    {
+        "week_start_date": "2021-08-09",
+        "ewma_volatility": 0.026542284938988966
+    },
+    {
+        "week_start_date": "2021-08-16",
+        "ewma_volatility": 0.026812109748247118
+    },
+    {
+        "week_start_date": "2021-08-23",
+        "ewma_volatility": 0.025868269838467163
+    },
+    {
+        "week_start_date": "2021-08-30",
+        "ewma_volatility": 0.02612645328032062
+    },
+    {
+        "week_start_date": "2021-09-06",
+        "ewma_volatility": 0.025815209692622274
+    },
+    {
+        "week_start_date": "2021-09-13",
+        "ewma_volatility": 0.025118971016928338
+    },
+    {
+        "week_start_date": "2021-09-20",
+        "ewma_volatility": 0.025466580579474464
+    },
+    {
+        "week_start_date": "2021-09-27",
+        "ewma_volatility": 0.025731083595691207
+    },
+    {
+        "week_start_date": "2021-10-04",
+        "ewma_volatility": 0.025966832805451517
+    },
+    {
+        "week_start_date": "2021-10-11",
+        "ewma_volatility": 0.024681283011463034
+    },
+    {
+        "week_start_date": "2021-10-18",
+        "ewma_volatility": 0.023417831732758666
+    },
+    {
+        "week_start_date": "2021-10-25",
+        "ewma_volatility": 0.023277942194547208
+    },
+    {
+        "week_start_date": "2021-11-01",
+        "ewma_volatility": 0.02211454664869286
+    },
+    {
+        "week_start_date": "2021-11-08",
+        "ewma_volatility": 0.023766488722576237
+    },
+    {
+        "week_start_date": "2021-11-15",
+        "ewma_volatility": 0.02615926051869393
+    },
+    {
+        "week_start_date": "2021-11-22",
+        "ewma_volatility": 0.02640431240471819
+    },
+    {
+        "week_start_date": "2021-11-29",
+        "ewma_volatility": 0.03371424348017869
+    },
+    {
+        "week_start_date": "2021-12-06",
+        "ewma_volatility": 0.03207018364821296
+    },
+    {
+        "week_start_date": "2021-12-13",
+        "ewma_volatility": 0.030439001028118588
+    },
+    {
+        "week_start_date": "2021-12-20",
+        "ewma_volatility": 0.03369834029166951
+    },
+    {
+        "week_start_date": "2021-12-27",
+        "ewma_volatility": 0.04178685608832816
+    },
+    {
+        "week_start_date": "2022-01-03",
+        "ewma_volatility": 0.04511691195904402
+    },
+    {
+        "week_start_date": "2022-01-10",
+        "ewma_volatility": 0.044080765214250375
+    },
+    {
+        "week_start_date": "2022-01-17",
+        "ewma_volatility": 0.04198866198106201
+    },
+    {
+        "week_start_date": "2022-01-24",
+        "ewma_volatility": 0.03983762883632262
+    },
+    {
+        "week_start_date": "2022-01-31",
+        "ewma_volatility": 0.0379312670620727
+    },
+    {
+        "week_start_date": "2022-02-07",
+        "ewma_volatility": 0.04257045774734125
+    },
+    {
+        "week_start_date": "2022-02-14",
+        "ewma_volatility": 0.04043482473496209
+    },
+    {
+        "week_start_date": "2022-02-21",
+        "ewma_volatility": 0.03838878809294494
+    },
+    {
+        "week_start_date": "2022-02-28",
+        "ewma_volatility": 0.038261720825909076
+    },
+    {
+        "week_start_date": "2022-03-07",
+        "ewma_volatility": 0.0410104582961126
+    },
+    {
+        "week_start_date": "2022-03-14",
+        "ewma_volatility": 0.039912801851019516
+    },
+    {
+        "week_start_date": "2022-03-21",
+        "ewma_volatility": 0.046231362860285105
+    },
+    {
+        "week_start_date": "2022-03-28",
+        "ewma_volatility": 0.044443923774030766
+    },
+    {
+        "week_start_date": "2022-04-04",
+        "ewma_volatility": 0.04280999174041594
+    },
+    {
+        "week_start_date": "2022-04-11",
+        "ewma_volatility": 0.04079805596783017
+    },
+    {
+        "week_start_date": "2022-04-18",
+        "ewma_volatility": 0.038991162295036005
+    },
+    {
+        "week_start_date": "2022-04-25",
+        "ewma_volatility": 0.03700943531953596
+    },
+    {
+        "week_start_date": "2022-05-02",
+        "ewma_volatility": 0.035221444460212754
+    },
+    {
+        "week_start_date": "2022-05-09",
+        "ewma_volatility": 0.034816138283319885
+    },
+    {
+        "week_start_date": "2022-05-16",
+        "ewma_volatility": 0.03302948889200266
+    },
+    {
+        "week_start_date": "2022-05-23",
+        "ewma_volatility": 0.031378006512754485
+    },
+    {
+        "week_start_date": "2022-05-30",
+        "ewma_volatility": 0.0297706346094427
+    },
+    {
+        "week_start_date": "2022-06-06",
+        "ewma_volatility": 0.02838789859451168
+    },
+    {
+        "week_start_date": "2022-06-13",
+        "ewma_volatility": 0.027455926199385236
+    },
+    {
+        "week_start_date": "2022-06-20",
+        "ewma_volatility": 0.026206589261535428
+    },
+    {
+        "week_start_date": "2022-06-27",
+        "ewma_volatility": 0.028181664061102948
+    },
+    {
+        "week_start_date": "2022-07-04",
+        "ewma_volatility": 0.02754404208875089
+    },
+    {
+        "week_start_date": "2022-07-11",
+        "ewma_volatility": 0.026691978716848176
+    },
+    {
+        "week_start_date": "2022-07-18",
+        "ewma_volatility": 0.025472029234750046
+    },
+    {
+        "week_start_date": "2022-07-25",
+        "ewma_volatility": 0.0241681255280362
+    },
+    {
+        "week_start_date": "2022-08-01",
+        "ewma_volatility": 0.023049328904764244
+    },
+    {
+        "week_start_date": "2022-08-08",
+        "ewma_volatility": 0.02203683512527362
+    },
+    {
+        "week_start_date": "2022-08-15",
+        "ewma_volatility": 0.02092048174184692
+    },
+    {
+        "week_start_date": "2022-08-22",
+        "ewma_volatility": 0.020399070778178832
+    },
+    {
+        "week_start_date": "2022-08-29",
+        "ewma_volatility": 0.019681012139707466
+    },
+    {
+        "week_start_date": "2022-09-05",
+        "ewma_volatility": 0.019479876484597734
+    },
+    {
+        "week_start_date": "2022-09-12",
+        "ewma_volatility": 0.018973262696845777
+    },
+    {
+        "week_start_date": "2022-09-19",
+        "ewma_volatility": 0.01806673533893049
+    },
+    {
+        "week_start_date": "2022-09-26",
+        "ewma_volatility": 0.017499130186511246
+    },
+    {
+        "week_start_date": "2022-10-03",
+        "ewma_volatility": 0.016767617428306552
+    },
+    {
+        "week_start_date": "2022-10-10",
+        "ewma_volatility": 0.01595027069156993
+    },
+    {
+        "week_start_date": "2022-10-17",
+        "ewma_volatility": 0.01573593171137154
+    },
+    {
+        "week_start_date": "2022-10-24",
+        "ewma_volatility": 0.01494938655033508
+    },
+    {
+        "week_start_date": "2022-10-31",
+        "ewma_volatility": 0.014187775498953075
+    },
+    {
+        "week_start_date": "2022-11-07",
+        "ewma_volatility": 0.01454256649527328
+    },
+    {
+        "week_start_date": "2022-11-14",
+        "ewma_volatility": 0.01388460699412781
+    },
+    {
+        "week_start_date": "2022-11-21",
+        "ewma_volatility": 0.013749605452805399
+    },
+    {
+        "week_start_date": "2022-11-28",
+        "ewma_volatility": 0.013068197387196404
+    },
+    {
+        "week_start_date": "2022-12-05",
+        "ewma_volatility": 0.012623521249741572
+    },
+    {
+        "week_start_date": "2022-12-12",
+        "ewma_volatility": 0.01261748012716502
+    },
+    {
+        "week_start_date": "2022-12-19",
+        "ewma_volatility": 0.013066828174682403
+    },
+    {
+        "week_start_date": "2022-12-26",
+        "ewma_volatility": 0.013053882752241066
+    },
+    {
+        "week_start_date": "2023-01-02",
+        "ewma_volatility": 0.013866112668653218
+    },
+    {
+        "week_start_date": "2023-01-09",
+        "ewma_volatility": 0.021004447628141527
+    },
+    {
+        "week_start_date": "2023-01-16",
+        "ewma_volatility": 0.020048051609837605
+    },
+    {
+        "week_start_date": "2023-01-23",
+        "ewma_volatility": 0.02966058665710968
+    },
+    {
+        "week_start_date": "2023-01-30",
+        "ewma_volatility": 0.028537504031057405
+    },
+    {
+        "week_start_date": "2023-02-06",
+        "ewma_volatility": 0.027487524411147903
+    },
+    {
+        "week_start_date": "2023-02-13",
+        "ewma_volatility": 0.028915280069906818
+    },
+    {
+        "week_start_date": "2023-02-20",
+        "ewma_volatility": 0.02835480496828442
+    },
+    {
+        "week_start_date": "2023-02-27",
+        "ewma_volatility": 0.027593595143574318
+    },
+    {
+        "week_start_date": "2023-03-06",
+        "ewma_volatility": 0.026191994661878208
+    },
+    {
+        "week_start_date": "2023-03-13",
+        "ewma_volatility": 0.02485168879130889
+    },
+    {
+        "week_start_date": "2023-03-20",
+        "ewma_volatility": 0.023772457085970956
+    },
+    {
+        "week_start_date": "2023-03-27",
+        "ewma_volatility": 0.023920248971538438
+    },
+    {
+        "week_start_date": "2023-04-03",
+        "ewma_volatility": 0.022802521023568036
+    },
+    {
+        "week_start_date": "2023-04-10",
+        "ewma_volatility": 0.027179443057628015
+    },
+    {
+        "week_start_date": "2023-04-17",
+        "ewma_volatility": 0.02688067777882974
+    },
+    {
+        "week_start_date": "2023-04-24",
+        "ewma_volatility": 0.025870468562081708
+    },
+    {
+        "week_start_date": "2023-05-01",
+        "ewma_volatility": 0.026711134773446863
+    },
+    {
+        "week_start_date": "2023-05-08",
+        "ewma_volatility": 0.02605680677065847
+    },
+    {
+        "week_start_date": "2023-05-15",
+        "ewma_volatility": 0.02759059361214333
+    },
+    {
+        "week_start_date": "2023-05-22",
+        "ewma_volatility": 0.0295670807880075
+    },
+    {
+        "week_start_date": "2023-05-29",
+        "ewma_volatility": 0.03176265915990312
+    },
+    {
+        "week_start_date": "2023-06-05",
+        "ewma_volatility": 0.03015113560690688
+    },
+    {
+        "week_start_date": "2023-06-12",
+        "ewma_volatility": 0.029283545471309416
+    },
+    {
+        "week_start_date": "2023-06-19",
+        "ewma_volatility": 0.027858347314011617
+    },
+    {
+        "week_start_date": "2023-06-26",
+        "ewma_volatility": 0.027172567268979812
+    },
+    {
+        "week_start_date": "2023-07-03",
+        "ewma_volatility": 0.029133649225327844
+    },
+    {
+        "week_start_date": "2023-07-10",
+        "ewma_volatility": 0.028543765319906614
+    },
+    {
+        "week_start_date": "2023-07-17",
+        "ewma_volatility": 0.02721563537594751
+    },
+    {
+        "week_start_date": "2023-07-24",
+        "ewma_volatility": 0.026905379720028447
+    },
+    {
+        "week_start_date": "2023-07-31",
+        "ewma_volatility": 0.027409931976393787
+    },
+    {
+        "week_start_date": "2023-08-07",
+        "ewma_volatility": 0.03374485560407164
+    },
+    {
+        "week_start_date": "2023-08-14",
+        "ewma_volatility": 0.03201683791004246
+    },
+    {
+        "week_start_date": "2023-08-21",
+        "ewma_volatility": 0.03224937350005089
+    },
+    {
+        "week_start_date": "2023-08-28",
+        "ewma_volatility": 0.03229863968925356
+    },
+    {
+        "week_start_date": "2023-09-04",
+        "ewma_volatility": 0.03596386616404675
+    },
+    {
+        "week_start_date": "2023-09-11",
+        "ewma_volatility": 0.037886321376648366
+    },
+    {
+        "week_start_date": "2023-09-18",
+        "ewma_volatility": 0.03598420900909249
+    },
+    {
+        "week_start_date": "2023-09-25",
+        "ewma_volatility": 0.03700207934460884
+    },
+    {
+        "week_start_date": "2023-10-02",
+        "ewma_volatility": 0.03858389891682797
+    },
+    {
+        "week_start_date": "2023-10-09",
+        "ewma_volatility": 0.03661415219380541
+    },
+    {
+        "week_start_date": "2023-10-16",
+        "ewma_volatility": 0.034745978781629994
+    },
+    {
+        "week_start_date": "2023-10-23",
+        "ewma_volatility": 0.033307925181091026
+    },
+    {
+        "week_start_date": "2023-10-30",
+        "ewma_volatility": 0.03202573892852316
+    },
+    {
+        "week_start_date": "2023-11-06",
+        "ewma_volatility": 0.030458037764077472
+    },
+    {
+        "week_start_date": "2023-11-13",
+        "ewma_volatility": 0.028945411242843288
+    },
+    {
+        "week_start_date": "2023-11-20",
+        "ewma_volatility": 0.027512468367909992
+    },
+    {
+        "week_start_date": "2023-11-27",
+        "ewma_volatility": 0.026131374775890302
+    },
+    {
+        "week_start_date": "2023-12-04",
+        "ewma_volatility": 0.024848009221115814
+    },
+    {
+        "week_start_date": "2023-12-11",
+        "ewma_volatility": 0.024124239375331664
+    },
+    {
+        "week_start_date": "2023-12-18",
+        "ewma_volatility": 0.02576699199018242
+    },
+    {
+        "week_start_date": "2023-12-25",
+        "ewma_volatility": 0.02461830975973414
+    },
+    {
+        "week_start_date": "2024-01-01",
+        "ewma_volatility": 0.024569901466137318
+    },
+    {
+        "week_start_date": "2024-01-08",
+        "ewma_volatility": 0.023451954861397315
+    },
+    {
+        "week_start_date": "2024-01-15",
+        "ewma_volatility": 0.022451671509213962
+    },
+    {
+        "week_start_date": "2024-01-22",
+        "ewma_volatility": 0.02133843940341563
+    },
+    {
+        "week_start_date": "2024-01-29",
+        "ewma_volatility": 0.02026165143848817
+    },
+    {
+        "week_start_date": "2024-02-05",
+        "ewma_volatility": 0.02038648232545677
+    },
+    {
+        "week_start_date": "2024-02-12",
+        "ewma_volatility": 0.019344880304354793
+    },
+    {
+        "week_start_date": "2024-02-19",
+        "ewma_volatility": 0.019044115557495855
+    },
+    {
+        "week_start_date": "2024-02-26",
+        "ewma_volatility": 0.01819359555427408
+    },
+    {
+        "week_start_date": "2024-03-04",
+        "ewma_volatility": 0.017450390319021698
+    },
+    {
+        "week_start_date": "2024-03-11",
+        "ewma_volatility": 0.01669092684090581
+    },
+    {
+        "week_start_date": "2024-03-18",
+        "ewma_volatility": 0.015857144258994503
+    },
+    {
+        "week_start_date": "2024-03-25",
+        "ewma_volatility": 0.016042981704698523
+    },
+    {
+        "week_start_date": "2024-04-01",
+        "ewma_volatility": 0.015515228686625823
+    },
+    {
+        "week_start_date": "2024-04-08",
+        "ewma_volatility": 0.014817960185761552
+    },
+    {
+        "week_start_date": "2024-04-15",
+        "ewma_volatility": 0.014290093345563722
+    },
+    {
+        "week_start_date": "2024-04-22",
+        "ewma_volatility": 0.014368779505145706
+    },
+    {
+        "week_start_date": "2024-04-29",
+        "ewma_volatility": 0.013631421129902259
+    },
+    {
+        "week_start_date": "2024-05-06",
+        "ewma_volatility": 0.014462748784982372
+    },
+    {
+        "week_start_date": "2024-05-13",
+        "ewma_volatility": 0.013887059002457274
+    },
+    {
+        "week_start_date": "2024-05-20",
+        "ewma_volatility": 0.013426990214635086
+    },
+    {
+        "week_start_date": "2024-05-27",
+        "ewma_volatility": 0.01274533520353674
+    },
+    {
+        "week_start_date": "2024-06-03",
+        "ewma_volatility": 0.012365257458202689
+    },
+    {
+        "week_start_date": "2024-06-10",
+        "ewma_volatility": 0.011738589750464623
+    },
+    {
+        "week_start_date": "2024-06-17",
+        "ewma_volatility": 0.011211058751630509
+    },
+    {
+        "week_start_date": "2024-06-24",
+        "ewma_volatility": 0.010949573786357088
+    },
+    {
+        "week_start_date": "2024-07-01",
+        "ewma_volatility": 0.010469209799876898
+    },
+    {
+        "week_start_date": "2024-07-08",
+        "ewma_volatility": 0.00994141983317533
+    },
+    {
+        "week_start_date": "2024-07-15",
+        "ewma_volatility": 0.009441188548130487
+    },
+    {
+        "week_start_date": "2024-07-22",
+        "ewma_volatility": 0.009215916921557068
+    },
+    {
+        "week_start_date": "2024-07-29",
+        "ewma_volatility": 0.008839701158737534
+    },
+    {
+        "week_start_date": "2024-08-05",
+        "ewma_volatility": 0.009068526570681594
+    },
+    {
+        "week_start_date": "2024-08-12",
+        "ewma_volatility": 0.008771780019775535
+    },
+    {
+        "week_start_date": "2024-08-19",
+        "ewma_volatility": 0.0110957902590389
+    },
+    {
+        "week_start_date": "2024-08-26",
+        "ewma_volatility": 0.011085169580373833
+    },
+    {
+        "week_start_date": "2024-09-02",
+        "ewma_volatility": 0.01189882040740112
+    },
+    {
+        "week_start_date": "2024-09-09",
+        "ewma_volatility": 0.011484685046921244
+    },
+    {
+        "week_start_date": "2024-09-16",
+        "ewma_volatility": 0.010928000897618093
+    },
+    {
+        "week_start_date": "2024-09-23",
+        "ewma_volatility": 0.010579113409456085
+    },
+    {
+        "week_start_date": "2024-09-30",
+        "ewma_volatility": 0.010071219562740664
+    },
+    {
+        "week_start_date": "2024-10-07",
+        "ewma_volatility": 0.009590953361055105
+    },
+    {
+        "week_start_date": "2024-10-14",
+        "ewma_volatility": 0.009435067538809782
+    },
+    {
+        "week_start_date": "2024-10-21",
+        "ewma_volatility": 0.010060141545074772
+    },
+    {
+        "week_start_date": "2024-10-28",
+        "ewma_volatility": 0.010258642439728904
+    },
+    {
+        "week_start_date": "2024-11-04",
+        "ewma_volatility": 0.018225080316298475
+    },
+    {
+        "week_start_date": "2024-11-11",
+        "ewma_volatility": 0.017402007504368874
+    },
+    {
+        "week_start_date": "2024-11-18",
+        "ewma_volatility": 0.017270624755685696
+    },
+    {
+        "week_start_date": "2024-11-25",
+        "ewma_volatility": 0.016388930114189678
+    },
+    {
+        "week_start_date": "2024-12-02",
+        "ewma_volatility": 0.015567163796572766
+    },
+    {
+        "week_start_date": "2024-12-09",
+        "ewma_volatility": 0.015469715170271382
+    },
+    {
+        "week_start_date": "2024-12-16",
+        "ewma_volatility": 0.01475515721816857
+    },
+    {
+        "week_start_date": "2024-12-23",
+        "ewma_volatility": 0.014081086034396093
+    },
+    {
+        "week_start_date": "2024-12-30",
+        "ewma_volatility": 0.013444727031593178
+    },
+    {
+        "week_start_date": "2025-01-06",
+        "ewma_volatility": 0.013107188726199757
+    },
+    {
+        "week_start_date": "2025-01-13",
+        "ewma_volatility": 0.012890578262912436
+    },
+    {
+        "week_start_date": "2025-01-20",
+        "ewma_volatility": 0.012597058291332395
+    },
+    {
+        "week_start_date": "2025-01-27",
+        "ewma_volatility": 0.013236543432188552
+    },
+    {
+        "week_start_date": "2025-02-03",
+        "ewma_volatility": 0.012557287678037503
+    }
+]
